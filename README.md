@@ -16,7 +16,9 @@ $ .\node_modules.bin\cypress open
 $ npx cypress open
 
 Dependences
-# npm i typescript
-# npm i cypress-file-upload
-# npm i eslint-plugin-cypress
+$ npm i typescript
+
+$ npm i cypress-file-upload
+
+$ npm i eslint-plugin-cypress
 
